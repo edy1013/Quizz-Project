@@ -12,6 +12,13 @@
   font-family: "Nova Square", cursive;
 }
 
+p {
+  font-size: 1.5rem;
+  text-align: center;
+  color: white;
+  margin-bottom: 5rem;
+}
+
 h1 {
   font-size: 3rem;
   color: white;
